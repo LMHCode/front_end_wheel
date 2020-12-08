@@ -8,7 +8,7 @@
 
 ### 组件
 
-- 待上传...
+- [react 文字跑马灯](components/TextScroll)
 
 
 
